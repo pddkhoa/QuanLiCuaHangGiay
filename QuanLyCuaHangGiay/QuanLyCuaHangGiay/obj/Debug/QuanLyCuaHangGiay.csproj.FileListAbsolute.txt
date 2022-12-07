@@ -1,0 +1,123 @@
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe.config
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.pdb
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.AssemblyReference.cache
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.SuggestedBindingRedirects.cache
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.Properties.Resources.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.GenerateResource.cache
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.exe
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.pdb
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLogin.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fMain.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fProduct.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fUser.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddUser.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fCustomer.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddCustomer.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddBrand.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fBrand.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddProduct.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fStaff.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddStaff.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fOder.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddOder.resources
+D:\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLoading.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe.config
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.pdb
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.AssemblyReference.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddOder.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddProduct.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddStaff.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddUser.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLoading.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLogin.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fMain.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fOder.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fProduct.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fStaff.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fUser.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.Properties.Resources.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.GenerateResource.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.exe
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.pdb
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fHome.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fReport.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddCustomer.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fPhieuNhap.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe.config
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.pdb
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.AssemblyReference.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.SuggestedBindingRedirects.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddCustomer.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddOder.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddProduct.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddStaff.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddUser.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fPhieuNhap.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fReport.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fHome.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLoading.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLogin.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fMain.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fOder.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fProduct.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fStaff.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fUser.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.Properties.Resources.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.GenerateResource.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.exe
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.pdb
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe.config
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.pdb
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.AssemblyReference.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.SuggestedBindingRedirects.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddCustomer.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddOder.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddProduct.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddStaff.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddUser.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fPhieuNhap.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fReport.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fHome.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLoading.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLogin.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fMain.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fOder.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fProduct.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fStaff.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fUser.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.Properties.Resources.resources
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.GenerateResource.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.exe
+D:\teaching\HK1(2022_2023)\DoAnCNTT\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.pdb
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe.config
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.exe
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\bin\Debug\QuanLyCuaHangGiay.pdb
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.AssemblyReference.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddCustomer.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddOder.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddProduct.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddStaff.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fAddUser.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fPhieuNhap.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fReport.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fHome.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLoading.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fLogin.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fMain.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fOder.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fProduct.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fStaff.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.fUser.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.Properties.Resources.resources
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.GenerateResource.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.csproj.CoreCompileInputs.cache
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.exe
+D:\Đồ Án CNTT\QuanLyCuaHangGiayHieu\QuanLyCuaHangGiay\QuanLyCuaHangGiay\obj\Debug\QuanLyCuaHangGiay.pdb
